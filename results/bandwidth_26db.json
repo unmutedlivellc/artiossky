@@ -1,0 +1,22 @@
+{
+ "C_12car_taper0ms": 1284.0,
+ "C_12car_taper2ms": 908.0,
+ "C_12car_taper4ms": 732.0,
+ "C_12car_taper6ms": 668.0,
+ "C_10car_taper0ms": 1142.0,
+ "C_10car_taper2ms": 830.0,
+ "C_10car_taper4ms": 652.0,
+ "C_10car_taper6ms": 590.0,
+ "C_8car_taper0ms": 1004.0,
+ "C_8car_taper2ms": 750.0,
+ "C_8car_taper4ms": 572.0,
+ "C_8car_taper6ms": 508.0,
+ "R0_rect": 88.28125,
+ "R0_gfsk_bt2": 65.625,
+ "R1_rect": 177.34375,
+ "R1_gfsk_bt2": 131.25,
+ "R2_rect": 356.25,
+ "R2_gfsk_bt2": 262.5,
+ "R3_rect": 712.5,
+ "R3_gfsk_bt2": 525.0
+}

@@ -1,0 +1,8 @@
+ft8  awgn      50%: -19.71 dB   90%: -18.77 dB
+ft8  good      50%: -17.43 dB   90%: -12.22 dB
+ft8  moderate  50%: -17.19 dB   90%: -14.35 dB
+ft8  poor      50%: -16.76 dB   90%: -14.28 dB
+js8  awgn      50%: -19.85 dB   90%: -19.02 dB
+js8  good      50%: -17.60 dB   90%: -12.52 dB
+js8  moderate  50%: -17.47 dB   90%: -14.62 dB
+js8  poor      50%: -17.11 dB   90%: -14.70 dB
